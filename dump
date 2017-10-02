@@ -1,0 +1,38 @@
+			<div id="myGallery">
+			<div class="imageElement">
+				<h3>Description</h3>
+					<p></p>
+					<a href="#" title="open image" class="open"></a>
+					<img src="<?php bloginfo( 'template_directory' ); ?>/images/IMG_0035.jpg" class="full" />
+					<img src="<?php bloginfo( 'template_directory' ); ?>/images/IMG_0035-mini.jpg" class="thumbnail" />
+			</div> <!-- imageElement -->
+			<div class="imageElement">
+				<h3>Engagement</h3>
+					<p></p>
+					<a href="#" title="open image" class="open"></a>
+					<img src="<?php bloginfo( 'template_directory' ); ?>/images/2.jpg" class="full" />
+					<img src="<?php bloginfo( 'template_directory' ); ?>/images/2-mini.jpg" class="thumbnail" />
+			</div> <!-- imageElement -->
+			<div class="imageElement">
+				<h3>Engagement</h3>
+					<p></p>
+					<a href="#" title="open image" class="open"></a>
+					<img src="<?php bloginfo( 'template_directory' ); ?>/images/3.jpg" class="full" />
+					<img src="<?php bloginfo( 'template_directory' ); ?>/images/3-mini.jpg" class="thumbnail" />
+			</div> <!-- imageElement -->
+			<div class="imageElement">
+				<h3>Engagement</h3>
+					<p></p>
+					<a href="#" title="open image" class="open"></a>
+					<img src="<?php bloginfo( 'template_directory' ); ?>/images/4.jpg" class="full" />
+					<img src="<?php bloginfo( 'template_directory' ); ?>/images/4-mini.jpg" class="thumbnail" />
+			</div> <!-- imageElement -->
+			<div class="imageElement">
+				<h3>Engagement</h3>
+					<p></p>
+					<a href="#" title="open image" class="open"></a>
+					<img src="<?php bloginfo( 'template_directory' ); ?>/images/5.jpg" class="full" />
+					<img src="<?php bloginfo( 'template_directory' ); ?>/images/5-mini.jpg" class="thumbnail" />
+			</div> <!-- imageElement -->			
+		</div> <!-- myGallery -->
+		<script type="text/javascript"> function startGallery() { var myGallery = new gallery($('myGallery'), { timed: true }); } window.addEvent('domready', startGallery); </script>
