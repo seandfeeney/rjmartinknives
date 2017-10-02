@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> <!-- important for drop menu to work -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>R.J. Martin Custom Knives : The Avenger Recurve</title>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Keywords" content="avenger recurve, custom knives, knife, knives, RJ Martin, custom" />
+<meta name="Description" content="Quality custom knives by RJ Martin" />
+<meta name="Author" content="Sean Feeney">
+<link href="css/css.css" rel="stylesheet" type="text/css" />
+<link href="css/table.css" rel="stylesheet" type="text/css" />
+<link href="css/hoverbox.css" rel="stylesheet" type="text/css" />
+<!--[if lte IE 7]>
+<LINK href="css/ie_fixes.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+
+<body>
+<!--#include file="head.htm" -->
+<img class="spacer" src="graphics/spacer.gif" alt="spacing" />
+<div class="avenger_recurveDiv1"><img src="knives/folder/avenger_recurve_lg.jpg" width="640" height="480" alt="Avenger Recurve"></div>
+<div class="avenger_recurveDiv2"><h3>STK: avenger recurve<img src="graphics/spacer.gif" alt="spacing" width="200px" height="0px" />The AVENGER &nbsp;&nbsp;(Recurve Model)&nbsp;&nbsp;</h3></div>
+<div class="avenger_recurveDiv3">
+	<p>
+	If you&#8217;re looking for a BIG, STRONG Framelock this knife is for you!<br /><br />
+	<strong>The Avenger design incorporates all the features my customers expect in a heavy duty tactical folder:</strong><br /><br />
+	-2 deep finger grooves provide positive indexing in both forward and reverse grips.<br />
+	-Deep traction grooves on blade spine anchor the thumb, but don&#8217;t hang up on your pocket during deployment.<br />
+	-CNC Textured scales for maximum grip-ability.<br />
+	-Ambidextrous textured Titanium thumb stud for slip-free blade opening.<br />
+	-The .090 thick Titanium frame is rigidized by 4 precision Ti standoffs and a massive 3/16 DIA. Hardened Stainless stop pin.<br />
+	-Deep carry Titanium Pocket clip available in plain or bead blast finish.<br />
+	-Blade to handle length ratio: 85%
+	<br /><img src="knives/folder/avenger_recurve_closeup.jpg" width="250" height="188" border="0" align="right"><br />
+	<strong>Blade Steel:</strong> CPMS30V, Rc59<br />
+	<strong>Blade Length:</strong> 4 1/4&quot;<br />
+	<strong>Overall Length:</strong> 9 1/2&quot; <br />
+	<strong>Handle Length:</strong> 5 1/4&quot; <br />
+	<strong>Blade Steel:</strong> CPM S30V Stainless Satin Finish <br />
+	<strong>Blade Thickness:</strong> .175<br />
+	<strong>Handle Material:</strong> Bead Blast Titanium w/ CNC textured G-10 overlays<br />
+	<strong>Weight:</strong> 5.4 ounces / 152 grams
+	<p><strong>The Avenger is available with the following options:</strong><br />
+	-Recurve or Spear Point blade with false top edge<br />
+	-Plain or bead blasted clip<br />
+	-Green/Black G-10, Silver G10, Blue Twill G10, Carbon Fiber or Tan Canvas Micarta Scales</p>
+	<p class="orderquoteP">The AVENGER (Recurve Model) Price: $475<img src="graphics/spacer.gif" alt="spacing" width="50px" height="0px" /> 
+		<a href="order.shtml" class="orderquote"> &nbsp;&nbsp; Order/Quote &nbsp;&nbsp;</a></p>
+	</div>
+<div class="avenger_recurveDiv4"><a href="javascript:history.go(-1);"><b>BACK</b></a></div>
+<img class="spacer" src="graphics/spacer.gif" alt="spacing" />
+<!--#include file="footer.htm" -->
+</body>
+</html>
